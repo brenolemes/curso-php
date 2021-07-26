@@ -1,2 +1,2 @@
-# php-primeiros-passos
- Curso de PHP
+# Formação PHP
+ Jornada da linguagem PHP
